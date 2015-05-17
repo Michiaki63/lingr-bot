@@ -1,0 +1,1 @@
+web: bundle exec ruby a-nya5.rb -o 0.0.0.0 -p $PORT
